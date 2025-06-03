@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Linjun(Colin) Pang
-- 👀 I’m interested in games🎮, music(Basser)🎵
+- 👀 I’m interested in games🎮, music(Bass Player)🎵
 - 🌱 I’m currently Major in Information Technology in UNSW🇦🇺
-- 💞️ I’m looking to collaborate on Front-End, Back-End, Full-Stack
+- 💞️ I’m looking to collaborate on AI-Based Web Programe
 - 📫 How to reach me panglinjun0219@163.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
